@@ -1,16 +1,14 @@
 # rain_drop
 
-A new Flutter project.
+A flutter widget which imp simple rain drop anim.
+Just for study & fun.
 
-## Getting Started
+# How to run
 
-This project is a starting point for a Flutter application.
+It's a flutter project, so treat it like any other flutter project.
 
-A few resources to get you started if this is your first Flutter project:
+# Post
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+I'm trying to write some posts about Animation in Flutter.
+This one will be the first demo. 
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
